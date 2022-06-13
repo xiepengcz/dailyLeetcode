@@ -11,6 +11,7 @@
  *     this.val = val;
  *     this.next = null;
  * }
+ * 用 flag 来做判断，当存在 flag 时，就是环形链表
  */
 
 /**
