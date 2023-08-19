@@ -11,7 +11,9 @@
  * @return {number}
  */
 var searchInsert = function (nums, target) {
-
+  if(nums.includes(target)){
+    return 
+  }else return -1
 };
 // @lc code=end
 
